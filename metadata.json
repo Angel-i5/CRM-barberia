@@ -1,0 +1,6 @@
+{
+  "name": "Barber CRM - Fidelización",
+  "description": "Sistema premium de fidelización, tarjetas digitales de cliente, seguimiento por WhatsApp y gestión de barbería conectado con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
